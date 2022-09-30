@@ -1,3 +1,3 @@
 # tetris
 
-<img src="https://github.com/AliETninja/tetris/edit/main/output/ala.png">
+![snake gif](https://github.com/AliETninja/tetris/blob/output/github-contribution-grid-snake.gif)
