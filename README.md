@@ -1,3 +1,3 @@
 # tetris
 
-![snake gif](https://github.com/AliETninja/tetris/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AliETninja/tetris/blob/output/github-contribution-grid-snake.svg)
