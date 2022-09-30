@@ -123,7 +123,7 @@
 
         :root {
         --cb:#1b1f230a;
-        --cc:#FFA97B;
+        --cc:#FFC7A8;
         --cs:#EC8C58;
         --ce:#ebedf0;
         --c0:#ebedf0;
@@ -135,7 +135,7 @@
         @media (prefers-color-scheme:dark){
         :root{
         --cb:#1b1f230a;
-        --cc:#FFA97B;
+        --cc:#FFC7A8;
         --cs:#EC8C58;
         --ce:#161b22;
         --c0:#161b22;
