@@ -565,12 +565,7 @@
 <rect class="c" x="834" y="18" rx="2" ry="2" width="12" height="12"/>
 <rect class="c" x="834" y="34" rx="2" ry="2" width="12" height="12"/>
 <rect class="c c39" x="834" y="50" rx="2" ry="2" width="12" height="12"/>
-<rect class="u u0" height="12" width="510.8" x="0.0" y="144"/>
-<rect class="u u1" height="12" width="7.8" x="510.2" y="144"/>
-<rect class="u u2" height="12" width="7.8" x="517.4" y="144"/>
-<rect class="u u3" height="12" width="230.6" x="524.6" y="144"/>
-<rect class="u u4" height="12" width="58.1" x="754.6" y="144"/>
-<rect class="u u5" height="12" width="36.5" x="812.1" y="144"/>
+    
     <!--        piece "L"-->
 <rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
 <rect class="s s1" x="0.8" y="0.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
