@@ -146,6 +146,7 @@
 
         .s{animation:none linear 9999999ms infinite}
         .s{shape-rendering:geometricPrecision;fill:var(--cs)}
+        .c{shape-rendering:geometricPrecision;fill:var(--cc)}
 
         <!--        piece "L"-->
         .s.s0{transform:translate(384px,-16px);animation-name:s0}
