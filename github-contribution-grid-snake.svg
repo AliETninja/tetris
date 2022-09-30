@@ -124,7 +124,7 @@
         :root {
         --cb:#1b1f230a;
         --cc:#FFA97B;
-        --cs:#FFD1B8;
+        --cs:#EC8C58;
         --ce:#ebedf0;
         --c0:#ebedf0;
         --c1:#9be9a8;
@@ -136,7 +136,7 @@
         :root{
         --cb:#1b1f230a;
         --cc:#FFA97B;
-        --cs:#FFD1B8;
+        --cs:#EC8C58;
         --ce:#161b22;
         --c0:#161b22;
         --c1:#01311f;
