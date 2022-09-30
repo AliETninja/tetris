@@ -137,7 +137,7 @@
         :root{
         --cb:#1b1f230a;
         --cc:green;
-        --cs:#EC8C58;
+        --cs:blue;
         --ce:#161b22;
         --c0:#161b22;
         --c1:#01311f;
