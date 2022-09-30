@@ -1,3 +1,3 @@
 # tetris
 
-https://github.com/AliETninja/tetris/edit/main/ala.png
+<img src="https://github.com/AliETninja/tetris/edit/main/output/ala.png">
