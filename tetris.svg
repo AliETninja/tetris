@@ -136,7 +136,7 @@
         @media (prefers-color-scheme:dark){
         :root{
         --cb:#1b1f230a;
-        --cc:#DA9261;
+        --cc:#c76538;
         --cs:#FFEADB;     
         --ce:#161b22;
         --c0:#161b22;
